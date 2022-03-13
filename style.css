@@ -1,0 +1,38 @@
+
+
+		body{
+			background-color: #F6E7D8}
+					hr{ 
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			width: 5%
+			}
+		img{
+			height: 444px;
+		}
+		h1{
+			color: #66BFBF;
+		}
+	h2{
+			color: #66BFBF;
+		}
+	h3{
+			color: #66BFBF;
+		}
+		ul{
+			color: #F582A7;
+		}
+          ol{
+          	color: #F582A7;
+          }
+          a:link{
+          	color: red;
+          }
+          a:hover{
+          	color: hotpink;
+          }
+          a:visited{
+          	color: #F10086;
+          }
